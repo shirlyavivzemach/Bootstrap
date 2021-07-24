@@ -10902,6 +10902,7 @@ header.masthead .masthead-content {
 }
 header.masthead .masthead-content .masthead-heading {
   font-size: 3rem;
+  text-align: center;
 }
 header.masthead .masthead-content .masthead-subheading {
   font-size: 2rem;
